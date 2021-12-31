@@ -38,3 +38,7 @@ I am an IT Under Grad from K.J Somaiya Institute of Engineering and IT, class of
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-postman-00599C?style=flat-square&logo=postman)
+
+### My GitHub Stats:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-yadav12&" alt="akash-yadav12" /></p>
+<p align="center">
