@@ -21,10 +21,18 @@ I love to solve problems and create efficient solutions, I mostly do it in Javas
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 
-###### Tech Stacks
+###### Frontend
 
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+###### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node)
+![Expressjs](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MONGODB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MYSQL-black?style=flat-square&logo=mysql)
 
 ###### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
