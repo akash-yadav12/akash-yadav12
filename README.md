@@ -1,5 +1,5 @@
-# Hey there<img src="https://github.com/akash-yadav12/akash-yadav12/blob/master/wave.gif" width="30px"><br>I am Akash Yadav
-I love to solve problems and create efficient solutions <br>
+# Hey there👋<br>I am Akash Yadav
+I love to solve problems and create efficient solutions, I mostly do it in Javascript and sometimes in python<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-yadav12" alt="akash-yadav12" /> </p> 
 
