@@ -14,9 +14,9 @@ I am an IT Under Grad from K.J Somaiya Institute of Engineering and IT, class of
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akash-yadav-b2b066170/) 
 [<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/akkasshh__/)
 [<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:akashrsy123@gmail.com)
-[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg">](https://www.hackerrank.com/akash_ry)
-[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg">](https://www.leetcode.com/akash_ry)
-[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg">](https://www.codechef.com/users/akash_ry)
+[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40">](https://www.hackerrank.com/akash_ry)
+[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40">](https://www.leetcode.com/akash_ry)
+[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="40">](https://www.codechef.com/users/akash_ry)
 
 
 ###### Languages
