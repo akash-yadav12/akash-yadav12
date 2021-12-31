@@ -1,5 +1,5 @@
 # Hey there👋<br>I am Akash Yadav
-I love to solve problems and create efficient solutions, I mostly do it in Javascript and sometimes in python<br>
+I am an IT Under Grad from K.J Somaiya Institute of Engineering and IT, class of 2022. Being a technology enthusiast, I love exploring new technologies and leveraging them to solve real-world problems<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-yadav12" alt="akash-yadav12" /> </p> 
 
@@ -7,7 +7,7 @@ I love to solve problems and create efficient solutions, I mostly do it in Javas
 - 👯 I’m looking to collaborate on Reactjs
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about Javascript, CSS, React
-- ⚡ Fun fact: I love playing Basketball and Voleyball in my free time
+- ⚡ Fun fact: I love playing Basketball and Voleyball in my free time. Also I am a weeb :)
 
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/soraku0) 
