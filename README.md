@@ -3,7 +3,7 @@ I am an IT Under Grad from K.J Somaiya Institute of Engineering and IT, class of
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-yadav12" alt="akash-yadav12" /> </p> 
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently Interning @inkoop as a UI Developer Intern
 - 👯 I’m looking to collaborate on Reactjs
 - 🤔 I’m looking for help with React Native
 - 💬 Ask me about Javascript, CSS, React
