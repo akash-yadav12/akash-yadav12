@@ -1,11 +1,11 @@
 # Hey there👋<br>I am Akash Yadav
-I am an IT Under Grad from K.J Somaiya Institute of Engineering and IT, class of 2022. Being a technology enthusiast, I love exploring new technologies and leveraging them to solve real-world problems<br>
+A Passionate developer with a demonstrated history of working in the domain of web application development. Experienced in translating designs to code using JavaScript / ES6 / ReactJS / GatsbyJS. Experienced in modern workflow tools, including automation via Jira, module bundling via Webpack and version control via Git.
+Educational specialisation of Bachelor of Technology (B.Tech.) focused in Information Technology from KJ somaiya institute of engineering and I.T
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-yadav12" alt="akash-yadav12" /> </p> 
 
-- 🌱 I’m currently Interning @inkoop as a UI Developer Intern
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Reactjs
-- 🤔 I’m looking for help with React Native
 - 💬 Ask me about Javascript, CSS, React
 - ⚡ Fun fact: I love playing Basketball and Voleyball in my free time. Also I am a weeb :)
 
