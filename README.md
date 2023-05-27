@@ -6,8 +6,8 @@ Educational specialisation of Bachelor of Technology (B.Tech.) focused in Inform
 
 - 🌱 I’m currently learning Backend with Java.
 - 👯 I’m looking to collaborate on Reactjs
-- 💬 Ask me anthing about Javascript, CSS, React
-- ⚡ Fun fact: I love playing various sports in my free time. Also I am a weeb :)
+- 💬 Ask me anthing about Javascript, React, Typescript, Java
+- ⚡ Fun fact: I love playing various sports in my free time.
 
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/soraku0) 
