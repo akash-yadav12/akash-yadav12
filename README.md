@@ -9,15 +9,6 @@ Educational specialisation of Bachelor of Technology (B.Tech.) focused in Inform
 - 💬 Ask me anthing about Javascript, React, Typescript, Java
 - ⚡ Fun fact: I love playing various sports in my free time.
 
-#### Connect with me on - 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/soraku0) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akash-yadav-b2b066170/) 
-[<img src = "https://img.shields.io/badge/instagram-%23EE157B.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/akkasshh__/)
-[<img src ="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:akashrsy123@gmail.com)
-[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40">](https://www.hackerrank.com/akash_ry)
-[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40">](https://www.leetcode.com/akash_ry)
-[<img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" height="30" width="40">](https://www.codechef.com/users/akash_ry)
-
 
 ###### Languages
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript)
