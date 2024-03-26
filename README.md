@@ -1,4 +1,4 @@
-# Hey there👋<br>I am Akash Yadav
+# Hey there👋<br>I am Akash
 A Passionate developer with a demonstrated history of working in the domain of web application development. Experienced in translating designs to code using JavaScript / ES6 / ReactJS / GatsbyJS. Experienced in modern workflow tools, including automation via Jira, module bundling via Webpack and version control via Git.
 Educational specialisation of Bachelor of Technology (B.Tech.) focused in Information Technology from KJ somaiya institute of engineering and I.T
 
